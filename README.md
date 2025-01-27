@@ -1,6 +1,6 @@
 # PDFApi.dev Documentation
 
-<img src="https://pdfapi.dev/logo.svg" alt="pdfapi.dev logo" width="200"/>
+<img src="https://pdfapi.dev/assets/logo.svg" alt="pdfapi.dev logo" width="200"/>
 
 PDFApi.dev is a powerful HTML to PDF conversion service that supports:
 - CSS styling and custom fonts
